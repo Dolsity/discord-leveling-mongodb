@@ -1,0 +1,7 @@
+config==0.5.1
+env==0.1.0
+nextcord==2.0.0b4
+Pillow==8.4.0
+pymongo==3.11.4
+ruamel.yaml==0.17.21
+asyncpg==0.23.0
